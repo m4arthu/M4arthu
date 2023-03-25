@@ -2,13 +2,12 @@
 - 🔭 I’m currently working on fullstack
 - 🌱 I’m currently learning Driven course
 - 👯 I’m looking to collaborate on software or web development
-- 📫 How to reach me:
 
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou a Luis Arthur Cruz Sousa, progamador full stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4arthu&langs_count=8&count_private=truetheme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4arthu)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
