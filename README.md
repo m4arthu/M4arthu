@@ -11,7 +11,6 @@
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
- <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luisarthir259@gmail.com" /></a>
 
 
 <p align="center">
@@ -22,5 +21,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m4arthu&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt=" github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4arthu&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
-  <a href="https://www.linkedin.com/in/gabriel-m-delgado/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" alt="Linkedin">
+  <p align="center">  
+ <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luisarthir259@gmail.com" /></a>
+  </p>
