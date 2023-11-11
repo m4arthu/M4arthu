@@ -13,8 +13,6 @@
 
  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luisarthir259@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/gabriel-m-delgado/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luís-arthur-cruz-sousa" /></a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=m4arthu&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -25,3 +23,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4arthu&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+  <a href="https://www.linkedin.com/in/gabriel-m-delgado/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" alt="Linkedin">
