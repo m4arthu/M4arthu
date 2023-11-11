@@ -11,10 +11,10 @@
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
+ <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luisarthir259@gmail.com" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m4arthu)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+  <a href="https://www.linkedin.com/in/gabriel-m-delgado/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRG0o4l%2BJRB6Zr6hxfHctmw%3D%3D" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luís-arthur-cruz-sousa" /></a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=m4arthu&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
