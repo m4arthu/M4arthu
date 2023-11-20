@@ -34,7 +34,8 @@
 
 # Contact Me
  <p align="center">
-   	   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+   	   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&link=https//www.linkedIn.com/in/luís-arthur-cruz-sousa"/>
+       </a>
        <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luisarthir259@gmail.com" /> 
         </a>
   </p>
